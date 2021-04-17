@@ -1,6 +1,10 @@
 # Masterclass2
 Hackathon
 
+## Hero Image
+
+-   Photo by Andrea Piacquadio from Pexels
+
 ## Colour Scheme
 
 -   jet: #353535ff;
