@@ -12,9 +12,18 @@ body{
 }
 
 #mini-bio {
+    padding: 25px 10px;
     text-align: center;
 }
 
+#mini-bio h1{
+    padding: 25px 10px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+/* CSS to fix Carousel padding and margins */
 .container-fluid{
     padding: 0;
     margin: 0;
@@ -39,9 +48,10 @@ body{
    max-width: 100%;
 }
 
+
 /* Will Style the Side by Side paragraphs */
 .sidebyside{
-    padding: 0 2%;
+    padding: 25px 2%;
     color: #d9d9d9ff;
     background-color: #284b63ff;
 }
