@@ -3,3 +3,9 @@
 body{
     font-family: 'Poppins', sans-serif ;
 }
+
+#contact-me-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
