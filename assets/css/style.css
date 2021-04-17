@@ -19,6 +19,7 @@ body{
 }
 
 .sidebyside h2{
+    text-align: center;
     font-weight: bold;
     letter-spacing: 2px;
 }
