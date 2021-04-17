@@ -7,8 +7,8 @@
 
 body{
     font-family: 'Poppins', sans-serif ;
-    color: #353535ff;
-    background-color: #d9d9d9ff;
+    color: #353535;
+    background-color: #d9d9d9;
 }
 
 #mini-bio {
@@ -48,12 +48,11 @@ body{
    max-width: 100%;
 }
 
-
 /* Will Style the Side by Side paragraphs */
 .sidebyside{
     padding: 25px 2%;
-    color: #d9d9d9ff;
-    background-color: #284b63ff;
+    color: #d9d9d9;
+    background-color: #284b63;
 }
 
 .sidebyside h2{
@@ -62,6 +61,31 @@ body{
     letter-spacing: 2px;
 }
 
+footer{
+    padding-left: 10%;
+}
+
 #contact-me-list {
-list-style-type: none;
+    font-size: 20px;
+    color: #284b63;
+    list-style-type: none;
+    padding: 25px 0;
+    margin: 0;
+    /*background-color: rgba(60, 113, 110, 0.5);*/
+    max-width: 450px;
+}
+
+.social-networks {
+    padding-top: 75px;
+}
+
+.social-networks li a i{
+    font-size: 30px;
+    line-height: 10px;
+    text-align: center;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    padding: 15px;
+    color: #353535;
 }

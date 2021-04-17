@@ -7,8 +7,8 @@ Hackathon
 
 ## Colour Scheme
 
--   jet: #353535ff;
--   ming: #3c6e71ff;
--   white: #ffffffff;
--   gainsboro: #d9d9d9ff;
--   indigo-dye: #284b63ff;
+-   jet: #353535;
+-   ming: #3c6e71;
+-   white: #ffffff;
+-   gainsboro: #d9d9d9;
+-   indigo-dye: #284b63;
